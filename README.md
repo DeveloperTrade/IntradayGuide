@@ -1,1 +1,5 @@
-
+![](https://github.com/DeveloperTrade/IntradayGuide/blob/candlesticks/assets/doji.png?raw=true)
+![](https://github.com/DeveloperTrade/IntradayGuide/blob/candlesticks/assets/engulfing.png?raw=true)
+![](https://github.com/DeveloperTrade/IntradayGuide/blob/candlesticks/assets/hammer.png?raw=true)
+![](https://github.com/DeveloperTrade/IntradayGuide/blob/candlesticks/assets/start.png?raw=true)
+![](https://github.com/DeveloperTrade/IntradayGuide/blob/candlesticks/assets/tweezers.png?raw=true)
